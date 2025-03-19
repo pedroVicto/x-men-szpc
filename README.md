@@ -9,7 +9,7 @@
 - Ao passar o mouse sobre um personagem, ele é destacado.
 - A imagem, o nome e a descrição do personagem são atualizados dinamicamente.
 
-<h1>🛠️: Funcionalidades</h1>
+<h1>🛠️: Ferramentas</h1>
 
 HTML → Estrutura da página
 
